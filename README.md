@@ -43,7 +43,7 @@
  
 # 📫 How to reach me:
 
-[github badge]((https://github.com/topser9)
+[![github badge](https://img.shields.io/badge/topser9-30302f?style=flat&logo=github)](https://github.com/topser9)
 
 [Telegram](https://t.me/topser99)
 
