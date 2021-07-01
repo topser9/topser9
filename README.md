@@ -47,4 +47,4 @@
 
 [![telegram badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=telegram)](https://telegram.me/topser99)
 
-[XDA](https://forum.xda-developers.com/m/topser99.10654363/)
+[![xda-developers badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=xda-developers)](https://forum.xda-developers.com/m/topser99.10654363)
