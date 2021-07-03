@@ -29,15 +29,15 @@
 
 [SM-A205xx](https://github.com/topser9/kernel_samsung_a20)
 
-[SM-A305xx](https://github.com/topser9/kernel_samsung_universal7885)
+[SM-A305xx](https://github.com/topser9/kernel_samsung_30)
 
 [SM-A307xx](https://github.com/topser9/kernel_samsung_a30s)
 
-[SM-A405xx](https://github.com/topser9/kernel_samsung_universal7885)
+[SM-A405xx](https://github.com/topser9/kernel_samsung_40)
 
 [SM-A505xx](https://github.com/topser9/kernel_samsung_a50)
 
-[SM-A507xx](https://github.com/topser9/kernel_samsung_a50)
+[SM-A507xx](https://github.com/topser9/kernel_samsung_a50s)
 
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=topser9.topser9)
  
