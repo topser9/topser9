@@ -43,7 +43,7 @@ An Enthusiast Developer from laos.<br>
  
 # 📫 How to reach me:
 
-[![github badge](https://img.shields.io/badge/topser9-30302f?style=flat&logo=github)](https://github.com/topser9)
+[![gmail badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=gmail)](topser181@gmail.com)
 
 [![telegram badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=telegram)](https://telegram.me/topser99)
 
