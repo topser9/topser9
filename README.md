@@ -43,8 +43,6 @@ An Enthusiast Developer from laos.<br>
  
 # 📫 How to reach me:
 
-[![gmail badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=gmail)](topser181@gmail.com)
-
 [![telegram badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=telegram)](https://telegram.me/topser99)
 
 [![xda-developers badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=xda-developers)](https://forum.xda-developers.com/m/topser99.10654363)
