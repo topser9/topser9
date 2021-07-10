@@ -29,11 +29,11 @@ An Enthusiast Developer from laos.<br>
 
 [SM-A205xx](https://github.com/topser9/kernel_samsung_a20)
 
-[SM-A305xx](https://github.com/topser9/kernel_samsung_30)
+[SM-A305xx](https://github.com/topser9/kernel_samsung_a30)
 
 [SM-A307xx](https://github.com/topser9/kernel_samsung_a30s)
 
-[SM-A405xx](https://github.com/topser9/kernel_samsung_40)
+[SM-A405xx](https://github.com/topser9/kernel_samsung_a40)
 
 [SM-A505xx](https://github.com/topser9/kernel_samsung_a50)
 
