@@ -35,9 +35,9 @@ An Enthusiast Developer from laos.<br>
 
 [SM-A405xx](https://github.com/topser9/kernel_samsung_a40)
 
-[SM-A505xx](https://github.com/topser9/kernel_samsung_a50)
+[SM-A505xx](https://github.com/topser9/kernel_samsung_universal9610)
 
-[SM-A507xx](https://github.com/topser9/kernel_samsung_a50)
+[SM-A507xx](https://github.com/topser9/kernel_samsung_universal9610)
 
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=topser9.topser9)
  
