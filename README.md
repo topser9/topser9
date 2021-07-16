@@ -39,6 +39,12 @@ An Enthusiast Developer from laos.<br>
 
 [SM-A507xx](https://github.com/topser9/kernel_samsung_universal9610)
 
+[SM-A515xx](https://github.com/topser9/kernel_samsung_universal9611)
+
+[SM-M307xx](https://github.com/topser9/kernel_samsung_universal9610)
+
+[SM-M317xx](https://github.com/topser9/kernel_samsung_universal9611)
+
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=topser9.topser9)
  
 # 📫 How to reach me:
