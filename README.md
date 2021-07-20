@@ -20,17 +20,17 @@
 [SM-A507xx](https://github.com/topser9/twrp_device_samsung_a50s)
 
 # kernel source exynos
-[SM-A105xx](https://github.com/topser9/kernel_samsung_a10)
+[SM-A105xx](https://github.com/topser9/kernel_samsung_universal7885)
 
-[SM-A202xx](https://github.com/topser9/kernel_samsung_a20e)
+[SM-A202xx](https://github.com/topser9/kernel_samsung_universal7885)
 
-[SM-A205xx](https://github.com/topser9/kernel_samsung_a20)
+[SM-A205xx](https://github.com/topser9/kernel_samsung_universal7885)
 
 [SM-A305xx](https://github.com/topser9/kernel_samsung_universal7885)
 
-[SM-A307xx](https://github.com/topser9/kernel_samsung_a30s)
+[SM-A307xx](https://github.com/topser9/kernel_samsung_universal7885)
 
-[SM-A405xx](https://github.com/topser9/kernel_samsung_a40)
+[SM-A405xx](https://github.com/topser9/kernel_samsung_universal7885)
 
 [SM-A505xx](https://github.com/topser9/kernel_samsung_universal9610)
 
