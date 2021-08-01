@@ -2,8 +2,8 @@
 
 An Enthusiast Developer from laos.<br>
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtechyminati&longCache=true)](https://github.com/topser9)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=topser9&style=flat-square" alt="topser9" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=topser9&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
+
+![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark&count_private=true)](https://github.com/topser9/github-readme-stats)
 
