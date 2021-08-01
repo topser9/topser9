@@ -5,8 +5,6 @@ An Enthusiast Developer from laos.<br>
 
 ![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark&count_private=true)](https://github.com/topser9/github-readme-stats)
-
 # Twrp Tree
 [SM-A107xx](https://github.com/topser9/twrp_device_samsung_a10s)
 
@@ -58,3 +56,6 @@ An Enthusiast Developer from laos.<br>
 [![telegram badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=telegram)](https://telegram.me/topser99)
 
 [![xda-developers badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=xda-developers)](https://forum.xda-developers.com/m/topser99.10654363)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark&count_private=true)](https://github.com/topser9/github-readme-stats)
