@@ -3,6 +3,8 @@
 An Enthusiast Developer from laos.<br>
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtechyminati&longCache=true)](https://github.com/topser9)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=topser9.topser9)
+ 
 ![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/topser9/github-readme-stats)
@@ -51,8 +53,6 @@ An Enthusiast Developer from laos.<br>
 
 [SM-F415xx](https://github.com/topser9/kernel_samsung_universal9611)
 
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=topser9.topser9)
- 
 # 📫 How to reach me:
 
 [![telegram badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=telegram)](https://telegram.me/topser99)
