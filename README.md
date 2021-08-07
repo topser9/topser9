@@ -7,7 +7,9 @@ An Enthusiast Developer from laos.<br>
  
 ![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/topser9/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark)](https://github.com/topser9/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=topser9&show_icons=true)
 
 # Twrp Tree
 [SM-A107xx](https://github.com/topser9/twrp_device_samsung_a10s)
