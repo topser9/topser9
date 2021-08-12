@@ -7,8 +7,6 @@ An Enthusiast Developer from laos.<br>
  
 ![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=topser9&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topser9&theme=dark)](https://github.com/topser9/github-readme-stats)
 
 
