@@ -2,11 +2,14 @@
 
 An Enthusiast Developer from laos.<br>
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtechyminati&longCache=true)](https://github.com/topser9)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=topser9.topser9)
  
 ![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topser9&theme=dark)](https://github.com/topser9/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark)](https://github.com/topser9/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=topser9&show_icons=true)
 
 # Twrp Tree
 [SM-A107xx](https://github.com/topser9/twrp_device_samsung_a10s)
@@ -51,8 +54,6 @@ An Enthusiast Developer from laos.<br>
 [SM-M317xx](https://github.com/topser9/kernel_samsung_universal9611)
 
 [SM-F415xx](https://github.com/topser9/kernel_samsung_universal9611)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=topser9.topser9)
 
 # 📫 How to reach me:
 
