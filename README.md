@@ -27,6 +27,8 @@ An Enthusiast Developer from laos.<br>
 [SM-A507xx](https://github.com/topser9/twrp_device_samsung_a50s)
 
 # kernel source exynos
+
+# A
 [SM-A105xx](https://github.com/topser9/kernel_samsung_universal7885)
 
 [SM-A202xx](https://github.com/topser9/kernel_samsung_universal7885)
@@ -44,6 +46,13 @@ An Enthusiast Developer from laos.<br>
 [SM-A507xx](https://github.com/topser9/kernel_samsung_universal9610)
 
 [SM-A515xx](https://github.com/topser9/kernel_samsung_universal9611)
+
+# M
+[SM-M107xx](https://github.com/topser9/kernel_samsung_universal7885)
+
+[SM-M205xx](https://github.com/topser9/kernel_samsung_m30)
+
+[SM-M305xx](https://github.com/topser9/kernel_samsung_m30)
 
 [SM-M307xx](https://github.com/topser9/kernel_samsung_universal9610)
 
