@@ -50,8 +50,6 @@ An Enthusiast Developer from laos.<br>
 # M
 [SM-M107xx](https://github.com/topser9/kernel_samsung_universal7885)
 
-[SM-M205xx](https://github.com/topser9/kernel_samsung_m30)
-
 [SM-M305xx](https://github.com/topser9/kernel_samsung_m30)
 
 [SM-M307xx](https://github.com/topser9/kernel_samsung_universal9610)
