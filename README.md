@@ -7,6 +7,11 @@ An Enthusiast Developer from laos.<br>
  
 ![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=topser9&show_icons=true&theme=dark)
+
+![stat](https://github-readme-streak-stats.herokuapp.com/?user=topser9&theme=dark)
+
+
 # Twrp Tree
 [SM-A107xx](https://github.com/topser9/twrp_device_samsung_a10s)
 
