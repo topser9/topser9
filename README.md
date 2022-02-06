@@ -26,6 +26,8 @@ An Enthusiast Developer from laos.<br>
 # kernel source exynos
 
 # A
+[Galaxy Tab A 8.0](https://github.com/topser9/kernel_samsung_universal7885)
+
 [SM-A105xx](https://github.com/topser9/kernel_samsung_universal7885)
 
 [SM-A202xx](https://github.com/topser9/kernel_samsung_universal7885)
