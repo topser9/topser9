@@ -8,9 +8,10 @@ An Enthusiast Developer from laos.<br>
  
 ![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
-![stat](https://github-readme-streak-stats.herokuapp.com/?user=topser9&theme=dark)
-
 # Twrp Tree
+
+[Galaxy Tab A 8.0](https://github.com/topser9/twrp_device_samsung_p205)
+
 [SM-A107xx](https://github.com/topser9/twrp_device_samsung_a10s)
 
 [SM-A202xx](https://github.com/topser9/twrp_device_samsung_a20e)
