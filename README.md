@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there, I'm topser. </h3>
+<h3 align="center"> Hi there, I'm Top. </h3>
 
 An Enthusiast Developer from laos.<br>
 
@@ -32,7 +32,7 @@ An Enthusiast Developer from laos.<br>
 
 # kernel source exynos
 
-Series A
+<h3 align="center"> Series A </h3>
 
 [Galaxy Tab A 8.0](https://github.com/topser9/kernel_samsung_universal7885)
 
@@ -54,7 +54,7 @@ Series A
 
 [SM-A515xx](https://github.com/topser9/kernel_samsung_universal9611)
 
-Series M
+<h3 align="center"> Series M </h3>
 
 [SM-M305xx](https://github.com/topser9/kernel_samsung_universal7885)
 
