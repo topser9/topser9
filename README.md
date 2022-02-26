@@ -8,15 +8,21 @@ An Enthusiast Developer from laos.<br>
  
 ![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
-# Twrp Tree
+<p align="center"><a href="https://github.com/topser9"><img src="https://github-readme-stats.vercel.app/api?username=topser9&show_icons=true&theme=dark"></a></p>
 
-[Galaxy Tab A 8.0](https://github.com/topser9/twrp_device_samsung_p205)
+<p align="center"><a href="https://github.com/topser9"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topser9&theme=dark&layout=compact"></a></p>
+
+<p align="center"><img width="130" src="https://komarev.com/ghpvc/?username=topser9&style=dark" alt="topser9"></p>
+
+# Twrp Tree
 
 [SM-A107xx](https://github.com/topser9/twrp_device_samsung_a10s)
 
 [SM-A202xx](https://github.com/topser9/twrp_device_samsung_a20e)
 
 [SM-A205xx](https://github.com/topser9/twrp_device_samsung_a20)
+
+[SM-P205xx](https://github.com/topser9/twrp_device_samsung_p205)
  
 [SM-A305xx](https://github.com/topser9/twrp_device_samsung_a30)
 
@@ -65,9 +71,3 @@ An Enthusiast Developer from laos.<br>
 [![telegram badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=telegram)](https://telegram.me/topser99)
 
 [![xda-developers badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=xda-developers)](https://forum.xda-developers.com/m/topser99.10654363)
-
-<p align="center"><a href="https://github.com/topser9"><img src="https://github-readme-stats.vercel.app/api?username=topser9&show_icons=true&theme=dark"></a></p>
-
-<p align="center"><a href="https://github.com/topser9"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topser9&theme=dark&layout=compact"></a></p>
-
-<p align="center"><img width="130" src="https://komarev.com/ghpvc/?username=topser9&style=dark" alt="topser9"></p>
