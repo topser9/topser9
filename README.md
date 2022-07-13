@@ -30,9 +30,9 @@ An Enthusiast Developer from laos.<br>
 
 [SM-A507xx](https://github.com/topser9/twrp_device_samsung_a50s)
 
-# kernel source exynos
+# kernel source
 
-<h3 align="center"> Series A </h3>
+<h3 align="center"> Universal7885 </h3>
 
 [Galaxy Tab A 8.0](https://github.com/topser9/kernel_samsung_universal7885)
 
@@ -48,15 +48,15 @@ An Enthusiast Developer from laos.<br>
 
 [SM-A405xx](https://github.com/topser9/kernel_samsung_universal7885)
 
+[SM-M305xx](https://github.com/topser9/kernel_samsung_universal7885)
+
+<h3 align="center"> Universal9610 </h3>
+
 [SM-A505xx](https://github.com/topser9/kernel_samsung_universal9610)
 
 [SM-A507xx](https://github.com/topser9/kernel_samsung_universal9610)
 
 [SM-A515xx](https://github.com/topser9/kernel_samsung_universal9611)
-
-<h3 align="center"> Series M </h3>
-
-[SM-M305xx](https://github.com/topser9/kernel_samsung_universal7885)
 
 [SM-M307xx](https://github.com/topser9/kernel_samsung_universal9610)
 
@@ -68,8 +68,14 @@ An Enthusiast Developer from laos.<br>
 
 [SM-F415xx](https://github.com/topser9/kernel_samsung_universal9611)
 
-# 📫 How to reach me:
-
-[![telegram badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=telegram)](https://telegram.me/topser99)
-
-[![xda-developers badge](https://img.shields.io/badge/topser99-30302f?style=flat&logo=xda-developers)](https://forum.xda-developers.com/m/topser99.10654363)
+## 📫 Contact me
+<div style="display:flex">
+  <a href="https://t.me/Topser99">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" />
+  </a>
+</div>
+<div style="display:flex">
+  <a href="https://forum.xda-developers.com/m/topser99.10654363">
+    <img src="https://img.shields.io/badge/xda-developers-2CA5E0?style=for-the-badge&logo=xda-developers&logoColor=black" />
+  </a>
+</div>
