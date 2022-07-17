@@ -71,11 +71,11 @@ An Enthusiast Developer from laos.<br>
 ## 📫 Contact me
 <div style="display:flex">
   <a href="https://t.me/Topser99">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" />
   </a>
 </div>
 <div style="display:flex">
   <a href="https://forum.xda-developers.com/m/topser99.10654363">
-    <img src="https://img.shields.io/badge/xda-developers-2CA5E0?style=for-the-badge&logo=xda-developers&logoColor=black" />
+    <img src="https://img.shields.io/badge/xda-developers-2CA5E0?style=for-the-badge&logo=xda-developers" />
   </a>
 </div>
