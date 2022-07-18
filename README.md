@@ -76,6 +76,6 @@ An Enthusiast Developer from laos.<br>
 </div>
 <div style="display:flex">
   <a href="https://forum.xda-developers.com/m/topser99.10654363">
-    <img src="https://img.shields.io/badge/xda-developers-2CA5E0?style=for-the-badge&logo=xda-developers" />
+    <img src="https://img.shields.io/badge/XDA-Developers-2CA5E0?style=for-the-badge&logo=xda-developers" />
   </a>
 </div>
