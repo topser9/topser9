@@ -12,6 +12,8 @@ An Enthusiast Developer from laos.<br>
 
 <p align="center"><a href="https://github.com/topser9"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topser9&theme=dark&layout=compact"></a></p>
 
+<p align="center"><a href="https://github.com/topser9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=topser9&theme=dark"></a></p>
+
 <p align="center"><img width="130" src="https://komarev.com/ghpvc/?username=topser9&style=dark" alt="topser9"></p>
 
 # Twrp Tree
