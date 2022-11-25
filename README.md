@@ -8,11 +8,11 @@ An Enthusiast Developer from laos.<br>
  
 ![topser9 github stats](https://github-stats-alpha.vercel.app/api/?username=topser9&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
-<p align="center"><a href="https://github.com/topser9"><img src="https://github-readme-stats.vercel.app/api?username=topser9&show_icons=true&theme=dark"></a></p>
+<p align="center" >   
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=topser9&&show_icons=true&theme=radical"/>
+</p>
 
-<p align="center"><a href="https://github.com/topser9"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topser9&theme=dark&layout=compact"></a></p>
-
-<p align="center"><a href="https://github.com/topser9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=topser9&theme=dark"></a></p>
+![stat](https://github-readme-streak-stats.herokuapp.com/?user=topser9&theme=dark)
 
 <p align="center"><img width="130" src="https://komarev.com/ghpvc/?username=topser9&style=dark" alt="topser9"></p>
 
